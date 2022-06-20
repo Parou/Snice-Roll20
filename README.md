@@ -21,7 +21,7 @@ The sheet features a Skills / Abilities section in the design of the official Sn
 Below the Skills / Abilities section, a basic Inventory section can be found where players can add a name, description and count of an item or use it to take notes.
 
 ## Further Information
-If you are interested in knowing how to play, please refer to the official **Snice Rulebook**, which comes with printable basic rule handouts for players, a Game Master specific section, as well as materials such as printable character sheets, pre-written skill sheets, blank skill sheets and more.
+If you are interested in knowing how to play, please refer to the official [**Snice Rulebook**](https://snice.parou.moe/), which comes with printable basic rule handouts for players, a Game Master specific section, as well as materials such as printable character sheets, pre-written skill sheets, blank skill sheets and more.
 
 #
 
