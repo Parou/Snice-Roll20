@@ -89,7 +89,7 @@ on("change:Magic change:Constitution change:Dexterity", function() {
 </div>
 
 <h2 class="h2">Attributes:
-<button type="roll" class="action-roll" value="@{Type}&{template:default} {{name=(Dexterity) @{Dexterity_Name}}} {{initiative=[[?{Modifier|Default, 1d20!!|Advantage, 2d20!!kh1|Disadvantage, 2d20!!kl1} + [[@{Dexterity_Modifier}]] &{tracker} ]] }} {{modifier=[[@{Dexterity_Modifier}]] }}" name="roll_InitiativeRoll">Initiative</button>
+<button type="roll" class="action-roll" value="@{Type}&{template:default} {{name=(Dexterity) @{Dexterity_Name}}} {{initiative=[[?{Modifier|Default, 1d20|Advantage, 2d20kh1|Disadvantage, 2d20kl1} + [[@{Dexterity_Modifier}]] &{tracker} ]] }} {{modifier=[[@{Dexterity_Modifier}]] }}" name="roll_InitiativeRoll">Initiative</button>
 </h2>
 
 <div class="attribute">
